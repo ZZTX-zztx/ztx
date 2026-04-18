@@ -9,3 +9,4 @@ create partition primary
 format fs=fat32 quick
 assign
 exit
+```
