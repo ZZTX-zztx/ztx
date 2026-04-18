@@ -1,7 +1,7 @@
 # ztx
 ```
 start http://geekprank.com/hacker
-
+```
 ```
 attributes disk clear readonly
 clean
