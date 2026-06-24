@@ -1,8 +1,8 @@
 # ztx
-```
+```cmd
 start http://geekprank.com/hacker
 ```
-```
+```diskpart
 attributes disk clear readonly
 clean
 create partition primary
