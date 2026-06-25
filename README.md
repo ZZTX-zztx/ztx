@@ -24,7 +24,7 @@ exit
         tools:ignore="ContentDescription,MissingConstraints,ImageContrastCheck,VisualLintBounds"
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="120dp"
-        tools:srcCompat="@drawable/logo" />
+        tools:srcCompat="@drawable/78icon" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
